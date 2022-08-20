@@ -7,7 +7,7 @@
 
 📜 Conhecimento em HTML e CSS
 
-🎫 Iniciando nos conceitos basicos de JavaScript
+📒 Iniciando nos conceitos basicos de JavaScript
 
 
 <div align="center">
