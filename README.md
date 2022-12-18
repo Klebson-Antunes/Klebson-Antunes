@@ -3,8 +3,6 @@
 
 🌱 Estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas
 
-📲 Focado em atuar no Desenvolvimento Front-end
-
 📜 Conhecimento em HTML e CSS
 
 📒 Iniciando nos conceitos basicos de JavaScript
