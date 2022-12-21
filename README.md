@@ -3,9 +3,9 @@
 
 🌱 Estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas
 
-📜 Conhecimento em HTML e CSS
+📜 Conhecimento em HTML, CSS, JavaScript Básico.
 
-📒 Iniciando nos conceitos basicos de JavaScript
+
 
 
 <div align="center">
