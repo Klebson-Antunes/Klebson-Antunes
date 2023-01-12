@@ -14,13 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klebson-Antunes&layout=compact&langs_count=7&theme="/>
 </div>
 
-<div style="display: inline_block"><br>
 
-  <img align="center" alt="Klebson-Antunes-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Klebson-Antunes-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Klebson-Antunes-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
 
 ##
 
