@@ -7,4 +7,6 @@
 
 ![Klebson GitHub stats](https://github-readme-stats.vercel.app/api?username=Klebson-Antunes&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klebson-Antunes&layout=compact)](https://github.com/Klebson-Antunes/github-readme-stats)
+
 
