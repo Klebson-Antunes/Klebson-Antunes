@@ -9,12 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klebson-Antunes&layout=compact)](https://github.com/Klebson-Antunes/github-readme-stats)
 
-#### Estudando Tecnologias:
 
-<div style="display: flex; gap: 10px; padding: 15px;">
-
-<img style="border-radius: 10px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
 
 
 
