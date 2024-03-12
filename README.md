@@ -19,7 +19,7 @@
 
 <div style="display: flex; gap: 10px; padding: 15px;">
 
-<img style="border-radius: 10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img style="border-radius: 10px;" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 <img style="border-radius: 10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
